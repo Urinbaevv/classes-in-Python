@@ -1,5 +1,5 @@
 class Mashina:
-    def __init__(self, rang, model,tezlik):
+    def __init__(self, rang, model, tezlik):
         self.rang = rang
         self.model = model
         self.tezlik = tezlik
